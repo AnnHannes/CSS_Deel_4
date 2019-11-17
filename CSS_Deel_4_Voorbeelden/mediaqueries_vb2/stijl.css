@@ -1,0 +1,41 @@
+body {
+    color: #000;
+    background-color: #fff;
+    /* default, mag weggelaten worden */
+}
+
+@media screen and (min-width:500px) {
+    body {
+        color: #000;
+        background-color: #f9f47c;
+    }
+
+    /*geel*/
+}
+
+@media screen and (min-width:700px) {
+    body {
+        color: #000;
+        background-color: #9bd171;
+    }
+
+    /*groen*/
+}
+
+@media screen and (min-width:900px) {
+    body {
+        color: #000;
+        background-color: #f89f99;
+    }
+
+    /*roos*/
+}
+
+@media screen and (min-width:1100px) {
+    body {
+        color: #000;
+        background-color: #7cd7f6;
+    }
+
+    /*blauw*/
+}
